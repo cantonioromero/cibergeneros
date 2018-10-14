@@ -13,3 +13,7 @@ En lo que va del año 2018, en Ecuador se han presentado incendios en prácticam
 ### Paradise papers
 
 <div><iframe id="datawrapper-chart-Bl0HP" src="//datawrapper.dwcdn.net/Bl0HP/1/" scrolling="no" frameborder="0" allowtransparency="true" style="width: 0; min-width: 100% !important;" height="400"></iframe><script type="text/javascript">if("undefined"==typeof window.datawrapper)window.datawrapper={};window.datawrapper["Bl0HP"]={},window.datawrapper["Bl0HP"].embedDeltas={"100":400,"200":400,"300":400,"400":400,"500":400,"700":400,"800":400,"900":400,"1000":400},window.datawrapper["Bl0HP"].iframe=document.getElementById("datawrapper-chart-Bl0HP"),window.datawrapper["Bl0HP"].iframe.style.height=window.datawrapper["Bl0HP"].embedDeltas[Math.min(1e3,Math.max(100*Math.floor(window.datawrapper["Bl0HP"].iframe.offsetWidth/100),100))]+"px",window.addEventListener("message",function(a){if("undefined"!=typeof a.data["datawrapper-height"])for(var b in a.data["datawrapper-height"])if("Bl0HP"==b)window.datawrapper["Bl0HP"].iframe.style.height=a.data["datawrapper-height"][b]+"px"});</script></div>
+
+### Lo que se ve en Google, increíble
+
+<div><iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/a/eluniverso.com/spreadsheets/d/e/2PACX-1vSEKhT6bBHIxMdqdQQwiU1B_iNRU5-0YGd1EAEcbf9uLiN_R5ISxkH7sLGAoV2kKUQGHAGTO5Ig0i1C/pubchart?oid=1937193585&amp;format=interactive"></iframe></div>
