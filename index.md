@@ -7,8 +7,7 @@ En lo que va del año 2018, en Ecuador se han presentado incendios en prácticam
   
   ### Número de vehículos matriculados, según marca, en el año 2010, en Ecuador
   
-
-
+<div><iframe id="datawrapper-chart-whGyt" src="//datawrapper.dwcdn.net/whGyt/1/" scrolling="no" frameborder="0" allowtransparency="true" style="width: 0; min-width: 100% !important;" height="400"></iframe><script type="text/javascript">if("undefined"==typeof window.datawrapper)window.datawrapper={};window.datawrapper["whGyt"]={},window.datawrapper["whGyt"].embedDeltas={"100":562,"200":508,"300":454,"400":427,"500":427,"700":400,"800":400,"900":400,"1000":400},window.datawrapper["whGyt"].iframe=document.getElementById("datawrapper-chart-whGyt"),window.datawrapper["whGyt"].iframe.style.height=window.datawrapper["whGyt"].embedDeltas[Math.min(1e3,Math.max(100*Math.floor(window.datawrapper["whGyt"].iframe.offsetWidth/100),100))]+"px",window.addEventListener("message",function(a){if("undefined"!=typeof a.data["datawrapper-height"])for(var b in a.data["datawrapper-height"])if("whGyt"==b)window.datawrapper["whGyt"].iframe.style.height=a.data["datawrapper-height"][b]+"px"});</script></div>
   
 
 
