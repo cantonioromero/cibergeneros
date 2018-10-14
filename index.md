@@ -16,4 +16,4 @@ En lo que va del año 2018, en Ecuador se han presentado incendios en prácticam
 
 ### Lo que se ve en Google, increíble
 
-<div><iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/a/eluniverso.com/spreadsheets/d/e/2PACX-1vSEKhT6bBHIxMdqdQQwiU1B_iNRU5-0YGd1EAEcbf9uLiN_R5ISxkH7sLGAoV2kKUQGHAGTO5Ig0i1C/pubchart?oid=1937193585&amp;format=interactive"></iframe></div>
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/a/eluniverso.com/spreadsheets/d/e/2PACX-1vSEKhT6bBHIxMdqdQQwiU1B_iNRU5-0YGd1EAEcbf9uLiN_R5ISxkH7sLGAoV2kKUQGHAGTO5Ig0i1C/pubchart?oid=1937193585&amp;format=interactive"></iframe>
